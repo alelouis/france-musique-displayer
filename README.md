@@ -1,6 +1,7 @@
 # France Musique Bitbar Plug-in
 
-Displays up to 20 last played tracks on https://www.francemusique.fr/ webradios.
+Displays up to 20 last played tracks on https://www.francemusique.fr/ webradios.  
+Clicking on items starts a Google search of the specified title.
 
 Favorite webradio and number of items displayed can be set up in `franceMusiqueDisplay.py`
 
