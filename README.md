@@ -19,7 +19,7 @@ history_max = 5         # Can't exceed 20, you don't need more than 20.
 
 Preview : 
 
-![alt tag](http://i.imgur.com/3taBiDB.png)
+![alt tag](http://i.imgur.com/KyHF1AB.jpg)
 
 Dependencies : `Bitbar` and `BeautifulSoup`  
 https://github.com/matryer/bitbar  
