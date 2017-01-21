@@ -23,7 +23,7 @@ Preview as Bitbar plug-in :
 ![alt tag](http://i.imgur.com/KyHF1AB.jpg)
 
 Preview in terminal : 
-![alt tag](blob:http://imgur.com/b0c95548-ff3d-408c-8f87-ce43f6c5c2ca)
+![alt tag](http://i.imgur.com/LKJmm0R.jpg)
 
 Dependencies : `Python 2.7`, `Bitbar` and `BeautifulSoup`  
 https://github.com/matryer/bitbar  
